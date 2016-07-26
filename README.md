@@ -1,6 +1,6 @@
 ﻿# BottomSheet的用法
 
-标签（空格分隔）：bottomSheet 
+bottomSheet 
 
 ---
 

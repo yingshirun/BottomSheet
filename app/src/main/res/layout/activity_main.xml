@@ -18,7 +18,7 @@
         android:layout_width="match_parent"
         android:layout_height="80dp"
         android:onClick="toActivity"
-        android:text="bottomSheetDialog" />
+        android:text="跳转到bottomSheetdialog" />
 </LinearLayout>
 
     <android.support.v4.widget.NestedScrollView
